@@ -1,0 +1,19 @@
+{
+  "name": "oxford",
+  "version": "1.0.0",
+  "description": "oxford",
+  "keywords": [],
+  "license": "ISC",
+  "author": "vanhv",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "fs": "^0.0.1-security",
+    "http-proxy-agent": "^7.0.2",
+    "puppeteer": "^24.4.0"
+  }
+}

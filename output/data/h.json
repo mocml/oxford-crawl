@@ -1,0 +1,56 @@
+[
+  {
+    "word": "hello",
+    "pos": "exclamation, noun",
+    "meaning_vi": "xin chào; biểu lộ sự ngạc nhiên",
+    "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/hello/hello__gb_1.mp3",
+    "phonetic_text": "/həˈləʊ/",
+    "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/h/hel/hello/hello__us_1_rr.mp3",
+    "phonetic_am_text": "/həˈləʊ/",
+    "senses": [
+      {
+        "definition": "used as a greeting when you meet somebody, in an email, when you answer the phone or when you want to attract somebody’s attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hello John, how are you?"
+          },
+          {
+            "cf": "",
+            "x": "Hello, is there anybody there?"
+          },
+          {
+            "cf": "",
+            "x": "Say hello to Liz for me."
+          },
+          {
+            "cf": "",
+            "x": "They exchanged hellos (= said hello to each other) and forced smiles."
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you are surprised by something",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hello, hello, what's going on here?"
+          }
+        ]
+      },
+      {
+        "definition": "used to show that you think somebody has said something stupid or is not paying attention",
+        "examples": [
+          {
+            "cf": "",
+            "x": "Hello? You didn't really mean that, did you?"
+          },
+          {
+            "cf": "",
+            "x": "I'm like, ‘Hello! Did you even listen?’"
+          }
+        ]
+      }
+    ]
+  }
+]
