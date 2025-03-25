@@ -4,6 +4,14 @@
 node_modules
 ./node_modules
 
+node_modules/
+
+# Bỏ qua file khóa package-lock.json
+package-lock.json
+
+# Bỏ qua thư mục đầu ra (nếu có)
+output/
+
 # Logs
 logs
 *.log
