@@ -1,6 +1,7 @@
 import puppeteer from "puppeteer";
-
+import _ from 'lodash';
 const scrapeTranslate = async (word, _pos) => {
+  console.log(word);
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(`https://dictionary.cambridge.org/dictionary/english-vietnamese/${word}`, { waitUntil: 'domcontentloaded' });
@@ -13,24 +14,25 @@ const scrapeTranslate = async (word, _pos) => {
     const dictionaryElement = document.querySelectorAll('span.link.dlink');
     dictionaryElement.forEach(w => {
       const wordObj = {}
-      const pos = w.querySelector('span.pos.dpos').textContent
+      const pos = w.querySelector('span.pos.dpos')?.textContent
       let meaning_vi = '';
       const means = w.querySelectorAll('.sense-block.pr.dsense')
       means.forEach(mean => {
-        const m = mean.querySelector('span.trans.dtrans').textContent;
+
+        const m = mean.querySelector('span.trans.dtrans')?.textContent;
         meaning_vi += m + '; ';
       })
-      wordObj.pos = pos;
-      wordObj.meaning_vi = meaning_vi.trim();
+      wordObj.pos = pos || '-';
+      wordObj.meaning_vi = meaning_vi?.trim() || '-';
       arr.push(wordObj);
     })
     return arr
   })
   await browser.close()
-  console.log(dics);
-  console.log(_pos);
+  console.log(_.isEmpty(dics)?[{pos:null,meaning_vi:null}]:dics, '\n');
+  
   const samePos = dics.find(dic => _pos.includes(dic.pos))?.meaning_vi ?? null;
-  return samePos || dics[0].meaning_vi;
+  return samePos || dics[0]?.meaning_vi || '-';
 }
-// console.log(await scrapeTranslate('above', 'adverb'));
+console.log(await scrapeTranslate('uncertainty', ''));
 export default scrapeTranslate;

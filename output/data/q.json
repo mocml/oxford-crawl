@@ -2,6 +2,7 @@
   {
     "word": "qualification",
     "pos": "noun",
+    "meaning_vi": "năng lực; chuyên môn; bằng cấp; sự hạn chế;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualification__gb_1.mp3",
     "phonetic_text": "/ˌkwɒlɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/qualification__us_4.mp3",
@@ -84,6 +85,7 @@
   {
     "word": "qualified",
     "pos": "adjective",
+    "meaning_vi": "đủ tiêu chuẩn;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualified__gb_1.mp3",
     "phonetic_text": "/ˈkwɒlɪfaɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/qualified__us_4.mp3",
@@ -165,6 +167,7 @@
   {
     "word": "qualify",
     "pos": "verb",
+    "meaning_vi": "đủ tiêu chuẩn; có đủ điều kiện; có đủ tư cách; bổ nghĩa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualify__gb_1.mp3",
     "phonetic_text": "/ˈkwɒlɪfaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/qualify__us_1.mp3",
@@ -278,6 +281,7 @@
   {
     "word": "quality",
     "pos": "noun",
+    "meaning_vi": "chất lượng; phẩm chất;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/quality__gb_3.mp3",
     "phonetic_text": "/ˈkwɒləti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quali/quality__us_2.mp3",
@@ -392,6 +396,7 @@
   {
     "word": "quantity",
     "pos": "noun",
+    "meaning_vi": "số lượng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quant/quantity__gb_3.mp3",
     "phonetic_text": "/ˈkwɒntəti/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quant/quantity__us_1.mp3",
@@ -473,6 +478,7 @@
   {
     "word": "quarter",
     "pos": "noun",
+    "meaning_vi": "một phần tư; đồng 25 xu; khu phố; quận; phương hướng; sự tha chết cho hàng binh; góc tư của con vật; tuần trăng; một phần tư ván đấu; học phần;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quart/quarter__gb_1.mp3",
     "phonetic_text": "/ˈkwɔːtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qua/quart/quarter__us_3.mp3",
@@ -645,6 +651,7 @@
   {
     "word": "queen",
     "pos": "noun",
+    "meaning_vi": "nữ hoàng; hoàng hậu; nữ chúa; quân đầm; quân hậu; ong chúa; kiến chúa; kẻ đồng tính luyến ái;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/queen/queen_1_gb_1.mp3",
     "phonetic_text": "/kwiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/queen/queen__us_1.mp3",
@@ -752,6 +759,7 @@
   {
     "word": "query",
     "pos": "noun",
+    "meaning_vi": "câu hỏi; dấu chấm hỏi;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/query/query__gb_1.mp3",
     "phonetic_text": "/ˈkwɪəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/query/query__us_1_rr.mp3",
@@ -784,6 +792,7 @@
   {
     "word": "quest",
     "pos": "noun",
+    "meaning_vi": "sự săn lùng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/quest__gb_1.mp3",
     "phonetic_text": "/kwest/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/quest__us_1.mp3",
@@ -811,6 +820,7 @@
   {
     "word": "question",
     "pos": "noun",
+    "meaning_vi": "câu hỏi; vấn đề; câu hỏi kiểm tra; sự nghi ngờ; khả năng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/question__gb_2.mp3",
     "phonetic_text": "/ˈkwestʃən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/question__us_4.mp3",
@@ -1107,6 +1117,7 @@
   {
     "word": "question",
     "pos": "verb",
+    "meaning_vi": "hỏi; nghi ngờ;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/question__gb_2.mp3",
     "phonetic_text": "/ˈkwestʃən/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/question__us_4.mp3",
@@ -1171,6 +1182,7 @@
   {
     "word": "questionnaire",
     "pos": "noun",
+    "meaning_vi": "bản câu hỏi điều tra;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/quest/questionnaire__gb_2.mp3",
     "phonetic_text": "/ˌkwestʃəˈneə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/quest/questionnaire__us_1.mp3",
@@ -1198,6 +1210,7 @@
   {
     "word": "queue",
     "pos": "noun",
+    "meaning_vi": "hàng; lối;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/queue/queue__gb_1.mp3",
     "phonetic_text": "/kjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/queue/queue__us_1.mp3",
@@ -1265,6 +1278,7 @@
   {
     "word": "queue",
     "pos": "verb",
+    "meaning_vi": "xếp hàng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/que/queue/queue__gb_1.mp3",
     "phonetic_text": "/kjuː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/que/queue/queue__us_1.mp3",
@@ -1309,6 +1323,7 @@
   {
     "word": "quick",
     "pos": "adjective",
+    "meaning_vi": "mau chóng; nhanh; giỏi; nhanh nhẹn;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quick/quick__gb_1.mp3",
     "phonetic_text": "/kwɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quick/quick__us_1.mp3",
@@ -1495,6 +1510,7 @@
   {
     "word": "quickly",
     "pos": "adverb",
+    "meaning_vi": "nhanh chóng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quick/quickly__gb_1.mp3",
     "phonetic_text": "/ˈkwɪkli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quick/quickly__us_3.mp3",
@@ -1587,6 +1603,7 @@
   {
     "word": "quiet",
     "pos": "adjective",
+    "meaning_vi": "yên lặng; thanh thản; yên ả; trang nhã;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quiet/quiet__gb_2.mp3",
     "phonetic_text": "/ˈkwaɪət/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quiet/quiet__us_1.mp3",
@@ -1719,6 +1736,7 @@
   {
     "word": "quietly",
     "pos": "adverb",
+    "meaning_vi": "trầm lặng; yên tĩnh;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quiet/quietly__gb_1.mp3",
     "phonetic_text": "/ˈkwaɪətli/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quiet/quietly__us_3.mp3",
@@ -1781,6 +1799,7 @@
   {
     "word": "quit",
     "pos": "verb",
+    "meaning_vi": "bỏ; ngừng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quit_/quit__gb_1.mp3",
     "phonetic_text": "/kwɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quit_/quit__us_1.mp3",
@@ -1875,6 +1894,7 @@
   {
     "word": "quite",
     "pos": "adverb",
+    "meaning_vi": "hoàn toàn; khá;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qui/quite/quite__gb_1.mp3",
     "phonetic_text": "/kwaɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/qui/quite/quite__us_1.mp3",
@@ -2086,6 +2106,7 @@
   {
     "word": "quota",
     "pos": "noun",
+    "meaning_vi": "hạn ngạch;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quota/quota__gb_1.mp3",
     "phonetic_text": "/ˈkwəʊtə/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quota/quota__us_1.mp3",
@@ -2127,6 +2148,7 @@
   {
     "word": "quotation",
     "pos": "noun",
+    "meaning_vi": "đoạn trích dẫn; bản báo giá; sự trích dẫn; sự báo giá;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quota/quotation__gb_2.mp3",
     "phonetic_text": "/kwəʊˈteɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quota/quotation__us_2.mp3",
@@ -2193,6 +2215,7 @@
   {
     "word": "quote",
     "pos": "noun",
+    "meaning_vi": "trích dẫn; định giá; nêu ra để hỗ trợ cho một câu hỏi;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quote/quote__gb_2.mp3",
     "phonetic_text": "/kwəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quote/quote__us_1.mp3",
@@ -2238,6 +2261,7 @@
   {
     "word": "quote",
     "pos": "verb",
+    "meaning_vi": "trích dẫn; định giá; nêu ra để hỗ trợ cho một câu hỏi;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/quo/quote/quote__gb_2.mp3",
     "phonetic_text": "/kwəʊt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/q/quo/quote/quote__us_1.mp3",

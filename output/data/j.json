@@ -2,6 +2,7 @@
   {
     "word": "jacket",
     "pos": "noun",
+    "meaning_vi": "áo vét; bìa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jac/jacke/jacket__gb_2.mp3",
     "phonetic_text": "/ˈdʒækɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jac/jacke/jacket__us_1.mp3",
@@ -50,6 +51,7 @@
   {
     "word": "jail",
     "pos": "noun",
+    "meaning_vi": "tù;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jai/jail_/jail__gb_1.mp3",
     "phonetic_text": "/dʒeɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jai/jail_/jail__us_1.mp3",
@@ -81,6 +83,7 @@
   {
     "word": "jail",
     "pos": "verb",
+    "meaning_vi": "bỏ tù;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jai/jail_/jail__gb_1.mp3",
     "phonetic_text": "/dʒeɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jai/jail_/jail__us_1.mp3",
@@ -100,6 +103,7 @@
   {
     "word": "jam",
     "pos": "noun",
+    "meaning_vi": "mứt;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jam/jam__/jam__gb_2.mp3",
     "phonetic_text": "/dʒæm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jam/jam__/jam__us_1.mp3",
@@ -188,6 +192,7 @@
   {
     "word": "January",
     "pos": "noun",
+    "meaning_vi": "tháng giêng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jan/janua/january__gb_1.mp3",
     "phonetic_text": "/ˈdʒænjuəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jan/janua/january__us_2.mp3",
@@ -235,6 +240,7 @@
   {
     "word": "jazz",
     "pos": "noun",
+    "meaning_vi": "nhạc Jazz;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jaz/jazz_/jazz__gb_1.mp3",
     "phonetic_text": "/dʒæz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jaz/jazz_/jazz__us_1.mp3",
@@ -275,6 +281,7 @@
   {
     "word": "jeans",
     "pos": "noun",
+    "meaning_vi": "quần bò;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jea/jeans/jeans__gb_2.mp3",
     "phonetic_text": "/dʒiːnz/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jea/jeans/jeans__us_1.mp3",
@@ -310,6 +317,7 @@
   {
     "word": "jet",
     "pos": "noun",
+    "meaning_vi": "hạt huyền;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jet/jet__/jet__gb_1.mp3",
     "phonetic_text": "/dʒet/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jet/jet__/jet__us_1.mp3",
@@ -363,6 +371,7 @@
   {
     "word": "jewellery",
     "pos": "noun",
+    "meaning_vi": "đồ trang sức;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jew/jewel/jewellery__gb_1.mp3",
     "phonetic_text": "/ˈdʒuːəlri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jew/jewel/jewellery__us_1.mp3",
@@ -406,6 +415,7 @@
   {
     "word": "job",
     "pos": "noun",
+    "meaning_vi": "việc làm; việc;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/job/job__/job__gb_4.mp3",
     "phonetic_text": "/dʒɒb/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/job/job__/job__us_2.mp3",
@@ -762,6 +772,7 @@
   {
     "word": "join",
     "pos": "verb",
+    "meaning_vi": "nối; ghép; nối liền; gia nhập; nhập vào; cùng tham gia;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joi/join_/join__gb_1.mp3",
     "phonetic_text": "/dʒɔɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joi/join_/join__us_1.mp3",
@@ -952,6 +963,7 @@
   {
     "word": "joint",
     "pos": "adjective",
+    "meaning_vi": "cùng; chung;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joi/joint/joint__gb_1.mp3",
     "phonetic_text": "/dʒɔɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joi/joint/joint__us_1.mp3",
@@ -983,6 +995,7 @@
   {
     "word": "joint",
     "pos": "noun",
+    "meaning_vi": "chỗ nối; khớp; súc thịt;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joi/joint/joint__gb_1.mp3",
     "phonetic_text": "/dʒɔɪnt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joi/joint/joint__us_1.mp3",
@@ -1071,6 +1084,7 @@
   {
     "word": "joke",
     "pos": "noun",
+    "meaning_vi": "lời nói đùa; trò đùa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jok/joke_/joke__gb_1.mp3",
     "phonetic_text": "/dʒəʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jok/joke_/joke__us_1.mp3",
@@ -1180,6 +1194,7 @@
   {
     "word": "joke",
     "pos": "verb",
+    "meaning_vi": "giễu cợt; nói đùa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jok/joke_/joke__gb_1.mp3",
     "phonetic_text": "/dʒəʊk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jok/joke_/joke__us_1.mp3",
@@ -1249,6 +1264,7 @@
   {
     "word": "journal",
     "pos": "noun",
+    "meaning_vi": "tạp chí; nhật ký;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journal__gb_2.mp3",
     "phonetic_text": "/ˈdʒɜːnl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journal__us_1.mp3",
@@ -1318,6 +1334,7 @@
   {
     "word": "journalism",
     "pos": "noun",
+    "meaning_vi": "nghề báo chí;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journalism__gb_1.mp3",
     "phonetic_text": "/ˈdʒɜːnəlɪzəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journalism__us_1.mp3",
@@ -1341,6 +1358,7 @@
   {
     "word": "journalist",
     "pos": "noun",
+    "meaning_vi": "nhà báo;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journalist__gb_1.mp3",
     "phonetic_text": "/ˈdʒɜːnəlɪst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journalist__us_1.mp3",
@@ -1368,6 +1386,7 @@
   {
     "word": "journey",
     "pos": "noun",
+    "meaning_vi": "quãng đường;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jou/journ/journey__gb_2.mp3",
     "phonetic_text": "/ˈdʒɜːni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jou/journ/journey__us_1.mp3",
@@ -1452,6 +1471,7 @@
   {
     "word": "joy",
     "pos": "noun",
+    "meaning_vi": "hạnh phúc; niềm vui;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/joy/joy__/joy__gb_1.mp3",
     "phonetic_text": "/dʒɔɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/joy/joy__/joy__us_1.mp3",
@@ -1558,6 +1578,7 @@
   {
     "word": "judge",
     "pos": "noun",
+    "meaning_vi": "quan tòa; trọng tài; người am hiểu;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judge__gb_2.mp3",
     "phonetic_text": "/dʒʌdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judge/judge__us_1.mp3",
@@ -1643,6 +1664,7 @@
   {
     "word": "judge",
     "pos": "verb",
+    "meaning_vi": "xét xử; xem xét; đánh giá; phê bình;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judge__gb_2.mp3",
     "phonetic_text": "/dʒʌdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judge/judge__us_1.mp3",
@@ -1770,6 +1792,7 @@
   {
     "word": "judgement",
     "pos": "noun",
+    "meaning_vi": "quyết định tòa án; sự xét xử; lương tri; ý kiến;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judgement__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌdʒmənt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judge/judgement__us_1.mp3",
@@ -1881,6 +1904,7 @@
   {
     "word": "judicial",
     "pos": "adjective",
+    "meaning_vi": "thuộc pháp luật;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judic/judicial__gb_1.mp3",
     "phonetic_text": "/dʒuˈdɪʃl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jud/judic/judicial__us_1.mp3",
@@ -1912,6 +1936,7 @@
   {
     "word": "juice",
     "pos": "noun",
+    "meaning_vi": "nước ép; nước; dịch;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jui/juice/juice__gb_2.mp3",
     "phonetic_text": "/dʒuːs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jui/juice/juice__us_1.mp3",
@@ -2017,6 +2042,7 @@
   {
     "word": "July",
     "pos": "noun",
+    "meaning_vi": "tháng 7;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jul/july_/july__gb_1.mp3",
     "phonetic_text": "/dʒuˈlaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jul/july_/july__us_1.mp3",
@@ -2060,6 +2086,7 @@
   {
     "word": "jump",
     "pos": "noun",
+    "meaning_vi": "bước nhảy; vật chướng ngại; cuộc thi nhảy; sự giật mình; sự tăng đột ngột;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jum/jump_/jump__gb_1.mp3",
     "phonetic_text": "/dʒʌmp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jum/jump_/jump__us_1.mp3",
@@ -2165,6 +2192,7 @@
   {
     "word": "jump",
     "pos": "verb",
+    "meaning_vi": "nhảy; nhảy lên; giật mình; nhảy qua;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jum/jump_/jump__gb_1.mp3",
     "phonetic_text": "/dʒʌmp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jum/jump_/jump__us_1.mp3",
@@ -2479,6 +2507,7 @@
   {
     "word": "junction",
     "pos": "noun",
+    "meaning_vi": "chỗ giao nhau;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/junct/junction__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌŋkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/junct/junction__us_1.mp3",
@@ -2523,6 +2552,7 @@
   {
     "word": "June",
     "pos": "noun",
+    "meaning_vi": "tháng 6;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/june_/june__gb_1.mp3",
     "phonetic_text": "/dʒuːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/june_/june__us_1.mp3",
@@ -2570,6 +2600,7 @@
   {
     "word": "junior",
     "pos": "adjective",
+    "meaning_vi": "dùng để nói về người trẻ hơn có cùng tên;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jun/junio/junior__gb_1.mp3",
     "phonetic_text": "/ˈdʒuːniə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jun/junio/junior__us_2.mp3",
@@ -2628,6 +2659,7 @@
   {
     "word": "jurisdiction",
     "pos": "noun",
+    "meaning_vi": "công lý;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jur/juris/jurisdiction__gb_1.mp3",
     "phonetic_text": "/ˌdʒʊərɪsˈdɪkʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jur/juris/jurisdiction__us_1.mp3",
@@ -2664,6 +2696,7 @@
   {
     "word": "jury",
     "pos": "noun",
+    "meaning_vi": "Bồi thẩm đoàn; ban giám khảo;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jur/jury_/jury__gb_2.mp3",
     "phonetic_text": "/ˈdʒʊəri/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jur/jury_/jury__us_1.mp3",
@@ -2713,6 +2746,7 @@
   {
     "word": "just",
     "pos": "adjective",
+    "meaning_vi": "công bằng; hợp lý; xứng đáng;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/just_/just__gb_1.mp3",
     "phonetic_text": "/dʒʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/just_/just__us_1.mp3",
@@ -2753,6 +2787,7 @@
   {
     "word": "just",
     "pos": "adverb",
+    "meaning_vi": "đúng; khá là; vừa mới; định; đúng lúc; vừa đủ; chỉ; chỉ (dùng trong câu mệnh lệnh); thật sự;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/just_/just__gb_1.mp3",
     "phonetic_text": "/dʒʌst/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/just_/just__us_1.mp3",
@@ -3240,6 +3275,7 @@
   {
     "word": "justice",
     "pos": "noun",
+    "meaning_vi": "sự công bằng; luật pháp; quan tòa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/justi/justice__gb_1.mp3",
     "phonetic_text": "/ˈdʒʌstɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/justi/justice__us_1.mp3",
@@ -3365,6 +3401,7 @@
   {
     "word": "justification",
     "pos": "noun",
+    "meaning_vi": "sự bào chữa; lý lẽ bào chữa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/justi/justification__gb_1.mp3",
     "phonetic_text": "/ˌdʒʌstɪfɪˈkeɪʃn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/justi/justification__us_1.mp3",
@@ -3409,6 +3446,7 @@
   {
     "word": "justify",
     "pos": "verb",
+    "meaning_vi": "bào chữa; bào chữa;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jus/justi/justify__gb_2.mp3",
     "phonetic_text": "/ˈdʒʌstɪfaɪ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/j/jus/justi/justify__us_2.mp3",

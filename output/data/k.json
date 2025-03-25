@@ -2,6 +2,7 @@
   {
     "word": "keen",
     "pos": "adjective",
+    "meaning_vi": "hăng hái nhiệt tình; sắc bén; rét buốt;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keen_/keen__gb_1.mp3",
     "phonetic_text": "/kiːn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kee/keen_/keen__us_1.mp3",
@@ -161,6 +162,7 @@
   {
     "word": "keep",
     "pos": "verb",
+    "meaning_vi": "gìn giữ; giữ; giữ trong tình trạng; tiếp tục; dự trữ; chăm sóc; duy trì; lưu; giữ lại; níu kéo; chăm sóc; tuân theo;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kee/keep_/keep__gb_1.mp3",
     "phonetic_text": "/kiːp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kee/keep_/keep__us_1.mp3",
@@ -461,6 +463,7 @@
   {
     "word": "key",
     "pos": "adjective",
+    "meaning_vi": "then chốt;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
     "phonetic_text": "/kiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
@@ -512,6 +515,7 @@
   {
     "word": "key",
     "pos": "noun",
+    "meaning_vi": "chìa khóa; phím; nút bấnm; tông, âm điệu; chìa khóa; bí quyết; bảng dịch kí hiệu;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
     "phonetic_text": "/kiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
@@ -662,6 +666,7 @@
   {
     "word": "key",
     "pos": "verb",
+    "meaning_vi": "chìa khóa; phím; nút bấnm; tông, âm điệu; chìa khóa; bí quyết; bảng dịch kí hiệu;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/key__/key__gb_3.mp3",
     "phonetic_text": "/kiː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/key__/key__us_1.mp3",
@@ -693,6 +698,7 @@
   {
     "word": "keyboard",
     "pos": "noun",
+    "meaning_vi": "bàn phím; loại nhạc cụ bàn phím;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/key/keybo/keyboard__gb_2.mp3",
     "phonetic_text": "/ˈkiːbɔːd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/key/keybo/keyboard__us_2.mp3",
@@ -746,6 +752,7 @@
   {
     "word": "kick",
     "pos": "noun",
+    "meaning_vi": "cú đá; sự giật; sự bất ngờ thú vị;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kic/kick_/kick__gb_3.mp3",
     "phonetic_text": "/kɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kic/kick_/kick__us_1.mp3",
@@ -829,6 +836,7 @@
   {
     "word": "kick",
     "pos": "verb",
+    "meaning_vi": "đá; giật;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kic/kick_/kick__gb_3.mp3",
     "phonetic_text": "/kɪk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kic/kick_/kick__us_1.mp3",
@@ -1019,6 +1027,7 @@
   {
     "word": "kid",
     "pos": "noun",
+    "meaning_vi": "trẻ em; dê con; da dê non;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kid__/kid__gb_2.mp3",
     "phonetic_text": "/kɪd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kid__/kid__us_1.mp3",
@@ -1126,6 +1135,7 @@
   {
     "word": "kidnap",
     "pos": "verb",
+    "meaning_vi": "bắt cóc;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kidna/kidnap__gb_2.mp3",
     "phonetic_text": "/ˈkɪdnæp/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kidna/kidnap__us_1.mp3",
@@ -1149,6 +1159,7 @@
   {
     "word": "kidney",
     "pos": "noun",
+    "meaning_vi": "thận;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kid/kidne/kidney__gb_2.mp3",
     "phonetic_text": "/ˈkɪdni/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kid/kidne/kidney__us_1.mp3",
@@ -1177,6 +1188,7 @@
   {
     "word": "kill",
     "pos": "verb",
+    "meaning_vi": "giết;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/kill_/kill__gb_2.mp3",
     "phonetic_text": "/kɪl/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/kill_/kill__us_1.mp3",
@@ -1360,6 +1372,7 @@
   {
     "word": "killing",
     "pos": "noun",
+    "meaning_vi": "sự giết;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/killi/killing__gb_3.mp3",
     "phonetic_text": "/ˈkɪlɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/killi/killing__us_3.mp3",
@@ -1404,6 +1417,7 @@
   {
     "word": "kilometre",
     "pos": "noun",
+    "meaning_vi": "kilomét;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kil/kilom/kilometre__gb_2.mp3",
     "phonetic_text": "/kɪˈlɒmɪtə(r)/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kil/kilom/kilometre__us_3_rr.mp3",
@@ -1431,6 +1445,7 @@
   {
     "word": "kind",
     "pos": "adjective",
+    "meaning_vi": "tốt;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kind_/kind__gb_2.mp3",
     "phonetic_text": "/kaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kind_/kind__us_1.mp3",
@@ -1519,6 +1534,7 @@
   {
     "word": "kind",
     "pos": "noun",
+    "meaning_vi": "loại;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kind_/kind__gb_2.mp3",
     "phonetic_text": "/kaɪnd/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kind_/kind__us_1.mp3",
@@ -1679,6 +1695,7 @@
   {
     "word": "king",
     "pos": "noun",
+    "meaning_vi": "vua; lá bài K; quân tướng; vua trong bàn cờ;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/king_/king__gb_2.mp3",
     "phonetic_text": "/kɪŋ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/king_/king__us_1.mp3",
@@ -1748,6 +1765,7 @@
   {
     "word": "kingdom",
     "pos": "noun",
+    "meaning_vi": "vương quốc; giới;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kin/kingd/kingdom__gb_2.mp3",
     "phonetic_text": "/ˈkɪŋdəm/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kin/kingd/kingdom__us_1.mp3",
@@ -1806,6 +1824,7 @@
   {
     "word": "kiss",
     "pos": "noun",
+    "meaning_vi": "nụ hôn;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kis/kiss_/kiss__gb_3.mp3",
     "phonetic_text": "/kɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kis/kiss_/kiss__us_1.mp3",
@@ -1858,6 +1877,7 @@
   {
     "word": "kiss",
     "pos": "verb",
+    "meaning_vi": "hôn;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kis/kiss_/kiss__gb_3.mp3",
     "phonetic_text": "/kɪs/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kis/kiss_/kiss__us_1.mp3",
@@ -1932,6 +1952,7 @@
   {
     "word": "kit",
     "pos": "noun",
+    "meaning_vi": "quân trang; bộ đồ nghề;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kit/kit__/kit__gb_2.mp3",
     "phonetic_text": "/kɪt/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kit/kit__/kit__us_1.mp3",
@@ -1990,6 +2011,7 @@
   {
     "word": "kitchen",
     "pos": "noun",
+    "meaning_vi": "bếp;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kit/kitch/kitchen__gb_2.mp3",
     "phonetic_text": "/ˈkɪtʃɪn/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kit/kitch/kitchen__us_2.mp3",
@@ -2038,6 +2060,7 @@
   {
     "word": "knee",
     "pos": "noun",
+    "meaning_vi": "đầu gối; đầu gối quần;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kne/knee_/knee__gb_3.mp3",
     "phonetic_text": "/niː/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kne/knee_/knee__us_1.mp3",
@@ -2181,6 +2204,7 @@
   {
     "word": "knife",
     "pos": "noun",
+    "meaning_vi": "con dao; dao găm;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kni/knife/knife__gb_2.mp3",
     "phonetic_text": "/naɪf/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kni/knife/knife__us_1.mp3",
@@ -2263,6 +2287,7 @@
   {
     "word": "knock",
     "pos": "noun",
+    "meaning_vi": "sự gõ; tiếng gõ;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knock/knock__gb_2.mp3",
     "phonetic_text": "/nɒk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knock/knock__us_1.mp3",
@@ -2312,6 +2337,7 @@
   {
     "word": "knock",
     "pos": "verb",
+    "meaning_vi": "gõ; làm rơi; đẩy; va vào;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knock/knock__gb_2.mp3",
     "phonetic_text": "/nɒk/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knock/knock__us_1.mp3",
@@ -2594,6 +2620,7 @@
   {
     "word": "know",
     "pos": "verb",
+    "meaning_vi": "biết; thuộc; có quen; nhận ra;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/know_/know__gb_2.mp3",
     "phonetic_text": "/nəʊ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/know_/know__us_1.mp3",
@@ -3397,6 +3424,7 @@
   {
     "word": "knowledge",
     "pos": "noun",
+    "meaning_vi": "sự hiểu biết; kiến thức; tri thức;",
     "phonetic": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/k/kno/knowl/knowledge__gb_3.mp3",
     "phonetic_text": "/ˈnɒlɪdʒ/",
     "phonetic_am": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/k/kno/knowl/knowledge__us_2.mp3",
