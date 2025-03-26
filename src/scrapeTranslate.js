@@ -34,5 +34,5 @@ const scrapeTranslate = async (word, _pos) => {
   const samePos = dics.find(dic => _pos.includes(dic.pos))?.meaning_vi ?? null;
   return samePos || dics[0]?.meaning_vi || '-';
 }
-console.log(await scrapeTranslate('uncertainty', ''));
+// console.log(await scrapeTranslate('uncertainty', ''));
 export default scrapeTranslate;

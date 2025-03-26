@@ -6,7 +6,7 @@ const crawlword = async (word) => {
   const words = [];
   const linksJson = fs.readFileSync('../output/oxford_links.json');
   const wordlinks = JSON.parse(linksJson);
-// const wordlinks=['https://www.oxfordlearnersdictionaries.com/definition/english/above_2']
+  // const wordlinks=['https://www.oxfordlearnersdictionaries.com/definition/english/above_2']
   const filteredLinks = wordlinks.filter(link => {
     const wordPath = link.split('/').pop();
     const realWord = wordPath.split('-').pop(' ');
@@ -16,37 +16,44 @@ const crawlword = async (word) => {
 
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-  page.setDefaultNavigationTimeout(3600 * 1000);
+  page.setDefaultNavigationTimeout(10 * 60 * 60 * 1000);
 
   const total = filteredLinks.length;
   for (const key in filteredLinks) {
     //delay 1s
-    await new Promise(resolve => setTimeout(resolve, 0.5 * 1000));
+    await new Promise(resolve => setTimeout(resolve, 1.5 * 1000));
     const link = filteredLinks[key];
     await page.goto(link);
-    const word = await page.evaluate(() => {
-      return document.querySelector('h1.headword').textContent;
-    });
-    const pos = await page.evaluate(() => {
-      return document.querySelector('span.pos').textContent;
-    });
-    const phonetic = await page.evaluate(() => {
-      const _phonetic = document.querySelector('div.phons_br div.sound');
-      return _phonetic.getAttribute('data-src-mp3');
-    })
+    // const word = await page.evaluate(() => {
+    //   return document.querySelector('h1.headword').textContent;
+    // });
+    // const pos = await page.evaluate(() => {
+    //   return document.querySelector('span.pos').textContent;
+    // });
+    // const phonetic = await page.evaluate(() => {
+    //   const _phonetic = document.querySelector('div.phons_br div.sound');
+    //   return _phonetic.getAttribute('data-src-mp3');
+    // })
 
-    const phonetic_text = await page.evaluate(() => {
-      return document.querySelector('div.phons_br span.phon').textContent;
-    })
-    const phonetic_am = await page.evaluate(() => {
-      const _phonetic_am = document.querySelector('div.phons_n_am div.sound');
-      return _phonetic_am.getAttribute('data-src-mp3');
-    })
-    const phonetic_am_text = await page.evaluate(() => {
-      return document.querySelector('div.phons_n_am span.phon').textContent;
-    })
+    // const phonetic_text = await page.evaluate(() => {
+    //   return document.querySelector('div.phons_br span.phon').textContent;
+    // })
+    // const phonetic_am = await page.evaluate(() => {
+    //   const _phonetic_am = document.querySelector('div.phons_n_am div.sound');
+    //   return _phonetic_am.getAttribute('data-src-mp3');
+    // })
+    // const phonetic_am_text = await page.evaluate(() => {
+    //   return document.querySelector('div.phons_n_am span.phon').textContent;
+    // })
     //Get Example
     const senses = await page.evaluate(() => {
+      const _word = document.querySelector('h1.headword').textContent;
+      const pos = document.querySelector('span.pos').textContent;
+      const phonetic = document.querySelector('div.phons_br div.sound').getAttribute('data-src-mp3');
+      const phonetic_text = document.querySelector('div.phons_br span.phon').textContent;
+      const phonetic_am = document.querySelector('div.phons_n_am div.sound').getAttribute('data-src-mp3');
+      const phonetic_am_text = document.querySelector('div.phons_n_am span.phon').textContent;
+
       const sensesHTML = document.querySelectorAll('li.sense');
       const sensesArray = [];
       sensesHTML.forEach(sense => {
@@ -70,21 +77,24 @@ const crawlword = async (word) => {
           sensesArray.push(senseObj);
         }
       });
-      return sensesArray;
+      return {
+        word: _word,
+        pos,
+        phonetic,
+        phonetic_text,
+        phonetic_am,
+        phonetic_am_text,
+        senses: sensesArray
+      }
+      // return sensesArray;
     });
-    const meaning_vi = await scrapeTranslate(word,pos);
-    console.log(`Done ${Number(key) + 1}/${total} links for ${word}`);
-    words.push({
-      word,
-      pos,
-      meaning_vi,
-      phonetic,
-      phonetic_text,
-      phonetic_am,
-      phonetic_am_text,
-      senses
-    });
+    // const meaning_vi = await scrapeTranslate(word,pos);
+
+    console.log(`Done ${Number(key) + 1}/${total} links for ${senses.word}`);
+
+    words.push({ ...senses });
   }
+
   await browser.close();
 
   const outputDir = '../output/data';
@@ -93,5 +103,5 @@ const crawlword = async (word) => {
   }
   fs.writeFileSync(`${outputDir}/${word}.json`, JSON.stringify(words, null, 2));
 }
-// crawlword('h');
+// crawlword('z');
 export default crawlword;
