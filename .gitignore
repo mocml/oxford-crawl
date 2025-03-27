@@ -10,7 +10,6 @@ node_modules/
 package-lock.json
 
 # Bỏ qua thư mục đầu ra (nếu có)
-output/
 
 # Logs
 logs
