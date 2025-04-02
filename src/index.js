@@ -13,8 +13,8 @@ const groupByWords = async (alphabet) => {
   }
   return 'Crawling alphabet completed';
 }
-//jkquxyzvno
-//a b c d e f g h i l m o p r s t w
-groupByWords('g').then((noti) => {
+//jkquxyzvnog
+//a b c d e f h i l m p r s t w
+groupByWords('h').then((noti) => {
   console.log(noti);
 }).catch(err => console.log('Crawling failed', err))
