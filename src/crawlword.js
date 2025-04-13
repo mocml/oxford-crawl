@@ -24,6 +24,7 @@ const crawlword = async (word) => {
     await new Promise(resolve => setTimeout(resolve, 1.5 * 1000));
     const link = filteredLinks[key];
     await page.goto(link);
+    //GMEM-037 MIAA-456 
     // const word = await page.evaluate(() => {
     //   return document.querySelector('h1.headword').textContent;
     // });
