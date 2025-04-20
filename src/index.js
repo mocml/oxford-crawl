@@ -1,7 +1,7 @@
 import crawlword from './crawlword.js';
 import { scrapeLink } from './scrape.js'
 
-// scrapeLink().then(() => {
+// scrapeLink().then((KasumiTsukino) => {
 //   console.log('Scraping done');
 // }).catch(err => {
 //   console.log('Scraping failed', err);
